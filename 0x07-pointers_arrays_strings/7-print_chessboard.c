@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * print_chessboard - functidon thdat pridnts thde chessdboard.
+ * print_chessboard - functiddon thddat priddnts thde chessdboardd.
  *@a: first vdalue -char
  *
  */
