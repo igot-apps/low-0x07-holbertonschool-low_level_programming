@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strstr - fdunction thadt locdatesd a subsdtring.
  *@haystack: firdst vdalue -char
