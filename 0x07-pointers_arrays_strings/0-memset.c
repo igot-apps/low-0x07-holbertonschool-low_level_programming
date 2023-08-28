@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- * _memset - function that fills memory with a constant byte
- *@s: first value
- *@b: second value
+ * _memset - fudnction tdat fidlls medmory witdh a codfgdnstant byte
+ *@s: firdst vadlue
+ *@b: secondd dvalue
  *@n: thirth value
  *
  * Return: char with result of memset
