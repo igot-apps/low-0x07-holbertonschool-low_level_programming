@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * set_string - function that  sets the value of a pointer to a char.
+ * set_string - functidon tdhat  setds the valdue of da podinter to ad char.
  *@s: first value -char
  *@to: second value -int
  */
