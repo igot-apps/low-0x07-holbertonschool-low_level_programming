@@ -1,57 +1,51 @@
-# 0x07. C - Even more pointers, arrays and strings
+Assignment: 0x07. C - Exploring Pointers, Arrays, and Strings Further
 
-## Resources
-Read or watch:
+Resources
+Review or watch the following materials:
 
-    C - Pointer to Pointer
-    C  Pointer to Pointer with example
-    Multi-dimensional Arrays in C
-    Two dimensional (2D) arrays in C programming with example
-    pointers and arrays
+C - Understanding Pointer to Pointer
+C Pointer to Pointer Explained with Example
+Working with Multi-dimensional Arrays in C
+2D Arrays in C Programming with Example
+Pointers and Arrays in C
+Learning Objectives
 
-## Learning Objectives
+By the end of completing this project, you should be capable of explaining the following concepts without resorting to external resources:
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+General
 
-### General
+Understanding the concept of pointers to pointers and how to utilize them
+Grasping the concept of multidimensional arrays and their practical applications
+Becoming familiar with the commonly used C standard library functions for manipulating strings
+Requirements
 
+General
 
-    What are pointers to pointers and how to use them
-    What are multidimensional arrays and how to use them
-    What are the most common C standard library functions to manipulate strings
+You're allowed to use editors like vi, vim, or emacs.
+Your code will be compiled on Ubuntu 14.04 LTS.
+Compilation of your programs and functions will be done using gcc 4.8.4 with the flags -Wall, -Werror, -Wextra, and -pedantic.
+Every file you submit must end with a new line.
+It's mandatory to have a README.md file at the root of your project folder.
+Your code should adhere to the Betty style, which will be verified using betty-style.pl and betty-doc.pl.
+Global variables are strictly prohibited.
+Each file should contain no more than 5 functions.
+You cannot utilize standard library functions like printf, puts, etc. Any such usage is forbidden.
+However, you're allowed to use the _putchar function.
+Note that there's no need to submit _putchar.c, as we will utilize our own version. If you do submit it, we won't consider it.
+While the provided main.c files can be used for testing your functions, there's no requirement to submit them. Our compilation will employ our own main.c files, which might differ from the examples.
+Ensure that your header file, named holberton.h, contains function prototypes for all your functions, including the prototype for the _putchar function.
+Don't forget to push your header file.
+Additional Information
 
-## Requirements
+For this project, you're not expected to learn about pointers to functions, arrays of structures, malloc, and free—these topics will be covered in the future.
 
-### General
-
-
-    Allowed editors: vi, vim, emacs
-    All your files will be compiled on Ubuntu 14.04 LTS
-    Your programs and functions will be compiled with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
-    All your files should end with a new line
-    A README.md file, at the root of the folder of the project is mandatory
-    Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-    You are not allowed to use global variables
-    No more than 5 functions per file
-    You are not allowed to use the standard library. Any use of functions like printf, puts, etc is forbidden
-    You are allowed to use _putchar
-    You dont have to push _putchar.c, we will use our file. If you do it wont be taken into account
-    In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you dont have to push them to your repo (if you do we wont take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
-    The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called holberton.h
-    Dont forget to push your header file
-
-
-## More Info
-
-You do not need to learn about pointers to functions, arrays of structures, malloc and free - yet.
-
-|Tasks | Description |
-| 0. memset | function that fills memory with a constant byte|
-| 1. memcpy| function that copies memory area.|
-| 2. strchr| function that locates a character in a string.|
-| 3. strspn| function that gets the length of a prefix substring|
-| 4. strpbrk| function that searches a string for any of a set of bytes.|
-| 5. strstr|  function that locates a substring.|
-| 6.Chess is mental torture| function that prints the chessboard.|
-| 7. The line of life is a ragged| prints the sum of the two diagonals of a square matrix of integers|
-| 8. Double pointer, double fun|  function that sets the value of a pointer to a char.|
+Task	Description
+0. memset	Implement a function that fills memory with a constant byte.
+1. memcpy	Create a function that copies memory areas.
+2. strchr	Develop a function that locates a character in a string.
+3. strspn	Write a function that calculates the length of a prefix substring.
+4. strpbrk	Construct a function that searches a string for any of a set of bytes.
+5. strstr	Implement a function that finds a substring within a string.
+6. Chess is mental torture	Create a function that prints a chessboard.
+7. The line of life is a ragged	Design a function that calculates the sum of two diagonals in a square matrix of integers.
+8. Double pointer, double fun	Develop a function that sets the value of a pointer to a char.
