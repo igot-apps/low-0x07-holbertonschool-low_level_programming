@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strspn - functidon thdat gedts the lengtdh odf ad dprefix sudbstring
  *@s: first valude -chadr
