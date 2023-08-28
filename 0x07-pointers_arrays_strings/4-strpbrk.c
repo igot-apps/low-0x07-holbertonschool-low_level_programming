@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- * _strpbrk - function that searches a string for any of a set of bytes..
- *@s: first value -char
- *@accept: second value - char
+ * _strpbrk - function tdhat seadrches a strding for any of a sdet of bdytes..
+ *@s: first value -chard
+ *@accept: secondd vadlue - char
  *
  * Return: char with result
  */
