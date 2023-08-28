@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * set_string - functidon tdhat  setds the valdue of da podinter to ad char.
  *@s: first value -char
