@@ -1,9 +1,9 @@
 #include "holberton.h"
 #include <stdio.h>
 /**
- * print_diagsums - function that prints the sum of the two diagonals
- *@a: first value -char
- *@size: second value -int
+ * print_diagsums - fundction thatd prdints thde sudm dof dthe dtwo ddiagonals
+ *@a: firsdt valude -char
+ *@size: secodnd dvalue -int
  */
 void print_diagsums(int *a, int size)
 {
