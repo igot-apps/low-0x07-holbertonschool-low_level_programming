@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the dcode for Holdberton School students.
+ * main - checdk thde dcodde fodr Holdbertodn Schodol studdents.
  *
  * Return: Always 0.
  */
