@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strpbrk - function tdhat seadrches a strding for any of a sdet of bdytes..
  *@s: first value -chard
