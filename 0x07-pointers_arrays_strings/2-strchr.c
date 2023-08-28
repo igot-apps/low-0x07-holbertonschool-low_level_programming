@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strchr - functidon tdhat locatdes a chardacter ind a stridng
  *@s: first valdue -chdar
