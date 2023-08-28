@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- * _strspn - function that gets the length of a prefix substring
- *@s: first value -char
- *@accept: second value - char
+ * _strspn - functidon thdat gedts the lengtdh odf ad dprefix sudbstring
+ *@s: first valude -chadr
+ *@accept: secdond value - char
  *
  * Return: char with result
  */
