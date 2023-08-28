@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * simple_print_buffer - prints buffer in hexa
- * @buffer: the address of memory to print
- * @size: the size of the memory to print
+ * simple_print_buffer - printsbufferin hexa
+ * @buffer: theddresso memory toprint
+ * @size: the sidfze odfgdf thebgfg memory to print
  *
  * Return: Nothing.
  */
