@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- * _strstr - function that locates a substring.
- *@haystack: first value -char
- *@needle: second value - char
+ * _strstr - fdunction thadt locdatesd a subsdtring.
+ *@haystack: firdst vdalue -char
+ *@needle: second valude - char
  *
  * Return: char with result
  */
