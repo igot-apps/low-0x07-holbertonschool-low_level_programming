@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - checdk tdhe codde for Hdolberton Schdool studdents.
+ * main - checdk tdhe coddde for Hdoldberton Schddool studddents.
  *
  * Return: Always 0.
  */
